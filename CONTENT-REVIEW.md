@@ -66,3 +66,23 @@ see what's actually there:
   mismatched number; left the visible "20.6.3" text alone rather than
   silently rewrite it. Worth a scan of the live docx for other stale
   cross-reference numbers if you want that done.
+
+## Needs your input (not fixed)
+
+- **28-section-21 (Tractor General Rules) §21.8, item 2** (Component Chassis Rules): "*If larger than
+  11-inch clutch is used, refer to industrial marine clutch rules listed in
+  the General Rules section.*" — searched the entire document for "marine"
+  and "industrial marine clutch": no match anywhere. The closest related
+  content is §11.15 (Clutch / Transmission, in General Safety Rules), which
+  mentions a 14-inch clutch/flywheel threshold but nothing about "marine"
+  clutches specifically. Either this rule was removed from General Rules at
+  some point and the reference was never updated, or it's described under
+  different wording I'm not matching — left unlinked rather than guess.
+- **28-section-21 (Tractor General Rules) §21.4** (Roll cage — already listed
+  above as one of the 5 garbled sections): a "Refer to 2) Channel Type
+  Chassis, Method Two" cross-reference here points at a same-page bullet
+  ("Channel Type Chassis" earlier in the same §21.4) rather than a real
+  heading, so it has no anchor to link to cleanly even once the surrounding
+  garbled numbering gets sorted out. Not broken since it's on the same page,
+  just not clickable — low priority, and worth revisiting once §21.4 itself
+  is fixed.
