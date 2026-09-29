@@ -60,7 +60,7 @@
 
 3.  Intake and exhaust wheel must protrude into housing 1/8”
 
-4.  Refer to rule 20.6.3 “Tractor General: Turbochargers” for inspection process
+4.  Refer to rule 20.6.3 “[Tractor General: Turbochargers](28-section-21---tractor-general-rules.md#216-tractor-general-turbochargers)” for inspection process
 
 ## 25.6 - Fuel & Water
 1.  VP Racing Fuel is the only fuel that is allowed for use in all pulling vehicles. VP TORQ DX fuel is allowed.

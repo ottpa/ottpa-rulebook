@@ -37,7 +37,7 @@
 
 4.  Maximum 5-inch intake housing.
 
-5.  Refer to rule 20.6.3 “Tractor General: Turbochargers” for inspection process
+5.  Refer to rule 20.6.3 “[Tractor General: Turbochargers](28-section-21---tractor-general-rules.md#216-tractor-general-turbochargers)” for inspection process
 
 6.  A turbocharger pressure pipe blanket is required
 
