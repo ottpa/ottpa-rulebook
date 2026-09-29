@@ -1,0 +1,63 @@
+site_name: OTTPA Rule Book (test build)
+theme:
+  name: material
+  features:
+  - navigation.instant
+  - navigation.sections
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  palette:
+  - scheme: default
+    primary: red
+    accent: orange
+nav:
+- Home: index.md
+- OTTPA EXECUTIVE BOARD: rules/00-ottpa-executive-board.md
+- OTTPA BOARD: rules/01-ottpa-board.md
+- SUPPORT STAFF: rules/02-support-staff.md
+- OTTPA TECH OFFICIALS: rules/03-ottpa-tech-officials.md
+- OTTPA MEMBERSHIP: rules/04-ottpa-membership.md
+- HISTORY OF OTTPA CHAMPIONSHIP PULLING: rules/05-history-of-ottpa-championship-pulling.md
+- APPLICATION OF RULES: rules/06-application-of-rules.md
+- SECONDARY RULES OVERSIGHT: rules/07-secondary-rules-oversight.md
+- Section 1 - OFFICIAL OTTPA DIVISIONS & CLASSES: rules/08-section-1---official-ottpa-divisions-classes.md
+- Section 2 - YEAR END POINT FUND PAYOUT: rules/09-section-2---year-end-point-fund-payout.md
+- Section 3 - YEAR END POINTS CHAMPIONSHIP: rules/10-section-3---year-end-points-championship.md
+- Section 4 - OTTPA PURSE PAYOUT: rules/11-section-4---ottpa-purse-payout.md
+- Section 5 - HOOK FEES: rules/12-section-5---hook-fees.md
+- Section 6 - PRE-ENTRY PROGRAM: rules/13-section-6---pre-entry-program.md
+- Section 7 - SLEDS: rules/14-section-7---sleds.md
+- Section 8 - SPONSORSHIP DECAL REQUIREMENTS: rules/15-section-8---sponsorship-decal-requirements.md
+- Section 9 - COMPETITION RULES: rules/16-section-9---competition-rules.md
+- Section 10 - GENERAL RULES: rules/17-section-10---general-rules.md
+- Section 11 - GENERAL SAFETY RULES: rules/18-section-11---general-safety-rules.md
+- Section 12 - TRUCK GENERAL RULES: rules/19-section-12---truck-general-rules.md
+- Section 13 - PRO STOCK 4WD TRUCK (P4x4): rules/20-section-13---pro-stock-4wd-truck-p4x4.md
+- Section 14 – LIMITED PRO STOCK DIESEL 4X4 3.0 TRUCKS (LPD30): rules/21-section-14-limited-pro-stock-diesel-4x4-30-trucks-lpd30.md
+- Section 15 - PRO STREET DIESEL 4X4 2.6 TRUCKS (PSD26): rules/22-section-15---pro-street-diesel-4x4-26-trucks-psd26.md
+- Section 16 - PRO STOCK DIESEL 4X4 3.6 TRUCKS (PSD36): rules/23-section-16---pro-stock-diesel-4x4-36-trucks-psd36.md
+- Section 17 - MODIFIED 4WD TRUCKS (4WD): rules/24-section-17---modified-4wd-trucks-4wd.md
+- Section 18 - SUPER MODIFIED 2WD TRUCKS (2WD): rules/25-section-18---super-modified-2wd-trucks-2wd.md
+- Section 19 - NATURALLY ASPIRATED 2WD TRUCKS (NA2WD): rules/26-section-19---naturally-aspirated-2wd-trucks-na2wd.md
+- Section 20 - PRO STOCK SEMI TRUCKS (PSS): rules/27-section-20---pro-stock-semi-trucks-pss.md
+- Section 21 - TRACTOR GENERAL RULES: rules/28-section-21---tractor-general-rules.md
+- Section 22 - LIGHT LIMITED MODIFIED TRACTORS (LLM): rules/29-section-22---light-limited-modified-tractors-llm.md
+- Section 23 - MODIFIED TRACTORS (MOD): rules/30-section-23---modified-tractors-mod.md
+- Section 24 - 3200 SUPER-FIELD TRACTORS (3200SF): rules/31-section-24---3200-super-field-tractors-3200sf.md
+- Section 25 - LIGHT LIMITED PRO STOCK TRACTORS (LLP): rules/32-section-25---light-limited-pro-stock-tractors-llp.md
+- Section 26 - SUPER FARM TRACTORS (SF): rules/33-section-26---super-farm-tractors-sf.md
+- Section 27 - LIMITED PRO STOCK TRACTORS (LPS): rules/34-section-27---limited-pro-stock-tractors-lps.md
+- Section 28 - 540 LIGHT PRO STOCK TRACTORS (540): rules/35-section-28---540-light-pro-stock-tractors-540.md
+- Section 29 - PRO STOCK TRACTORS (PS): rules/36-section-29---pro-stock-tractors-ps.md
+- Section 30 - LIGHT LIMITED SUPER STOCK TRACTORS (LLSS): rules/37-section-30---light-limited-super-stock-tractors-llss.md
+- Section 31 - LIGHT SUPER STOCK TRACTORS – AG (LSSAG): rules/38-section-31---light-super-stock-tractors-ag-lssag.md
+- Section 32 - LIGHT SUPER STOCK TRACTORS (LSS): rules/39-section-32---light-super-stock-tractors-lss.md
+- Section 33 - DIESEL SUPER STOCK TRACTORS (DSS): rules/40-section-33---diesel-super-stock-tractors-dss.md
+- Section 34 - LIMITED MINI-ROD TRACTORS (LMRT): rules/41-section-34---limited-mini-rod-tractors-lmrt.md
+- Section 35 - SUPER MODIFIED MINI-ROD TRACTORS (SMRT): rules/42-section-35---super-modified-mini-rod-tractors-smrt.md
+- Section 36 - SUPER STOCK DIESEL TRUCK (SSDT): rules/43-section-36---super-stock-diesel-truck-ssdt.md
+markdown_extensions:
+- tables
+- admonition
+- toc
