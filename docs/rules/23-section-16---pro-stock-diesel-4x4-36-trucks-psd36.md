@@ -21,7 +21,7 @@
 
     3.  Maximum hitch height of 26”.
 
-2.  Hitch point must be easily accessed. No <span dir="rtl">“</span>trick” type hitches permitted.
+2.  Hitch point must be easily accessed. No “trick” type hitches permitted.
 
 3.  The hitch must be stationary in all directions.
 
@@ -63,7 +63,7 @@
 
 7.  Radiators, if required, must be in stock location and be of at least stock size
 
-8.  All factory belt driven accessories, excluding the air conditioning compressor, must be retained and powered via the crankshaft by a standard serpentine or <span dir="rtl">“</span>V” belt. Electric cooling fans are permitted.
+8.  All factory belt driven accessories, excluding the air conditioning compressor, must be retained and powered via the crankshaft by a standard serpentine or “V” belt. Electric cooling fans are permitted.
 
 9.  All trucks must be equipped to direct exhaust upward. Hood stack permitted. Two 1/2 inch diameter bolts must be installed through exhaust pipe in a cross pattern within 1 inch of each other, as close to the turbo as possible.
 

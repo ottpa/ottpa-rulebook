@@ -21,7 +21,7 @@
 
     3.  Maximum hitch height of 26”.
 
-2.  Hitch point must be easily accessed. No <span dir="rtl">“</span>trick” type hitches permitted.
+2.  Hitch point must be easily accessed. No “trick” type hitches permitted.
 
 3.  The hitch must be stationary in all directions.
 
@@ -119,7 +119,7 @@
 
     5.  All transmission lines must be metallic or high-pressure type hose.
 
-    6.  All vehicles using an automatic transmission must be equipped with a transmission shield meeting SFI spec 4.1 and must be labeled accordingly. A blanket type shield is permitted and must be appropriately labeled as meeting SFI spec 4.1. It must extend from the rear of the block to the front of transmission main body and the bellhousing area is to be completely covered with a six-inch overlap where it is fastened. All non-blanket type shields must incorporate two (or one, per manufacturer<span dir="rtl">’</span>s instructions) ¾ inch by 1/8-inch straps that bolt to the shield on each side and pass under the transmission pan unless the transmission pan is labeled as meeting SFI spec 4.1
+    6.  All vehicles using an automatic transmission must be equipped with a transmission shield meeting SFI spec 4.1 and must be labeled accordingly. A blanket type shield is permitted and must be appropriately labeled as meeting SFI spec 4.1. It must extend from the rear of the block to the front of transmission main body and the bellhousing area is to be completely covered with a six-inch overlap where it is fastened. All non-blanket type shields must incorporate two (or one, per manufacturer’s instructions) ¾ inch by 1/8-inch straps that bolt to the shield on each side and pass under the transmission pan unless the transmission pan is labeled as meeting SFI spec 4.1
 
     7.  All vehicles using an automatic transmission must be equipped with a flex plate meeting SFI spec 29.1 and covered by a flex plate shield meeting FIT spec 30.1.
 

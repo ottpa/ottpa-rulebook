@@ -48,34 +48,12 @@
 
     5.  Classes with:
 
-<table>
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 23%" />
-<col style="width: 27%" />
-<col style="width: 22%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>0 - 9 Hooks</strong></th>
-<th>- No Drops</th>
-<th><ol start="25" type="1">
-<li><p><strong>hooks</strong></p></li>
-</ol></th>
-<th>- 2 Drops</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>10-18 Hooks</strong></td>
-<td>- 1 Drop</td>
-<td><blockquote>
-<p><strong>26 + hooks</strong></p>
-</blockquote></td>
-<td>- 3 Drops</td>
-</tr>
-</tbody>
-</table>
+| Hooks | Drops |
+|---|---|
+| **0-9 Hooks** | No Drops |
+| **10-18 Hooks** | 1 Drop |
+| **19-25 Hooks** | 2 Drops |
+| **26+ Hooks** | 3 Drops |
 
 11. The vehicle must register for, and attend, the last 3 events of the year for the class it is competing in, or a portion of the payout will be deducted. (Only exceptions would be family emergency, natural disaster, or major breakage to be determined and approved by the OTTPA executive board.)
 

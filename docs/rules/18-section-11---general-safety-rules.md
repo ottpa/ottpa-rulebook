@@ -82,7 +82,7 @@
 
 6.  The breakaway kill switches will have attached to them a minimum of a two (2) inch diameter ring that is 1/8-inch-thick solid to be located approximately 2 to 4 feet above drawbar.
 
-7.  There must also be a means of shutting the vehicle down within the driver<span dir="rtl">’</span>s reach.
+7.  There must also be a means of shutting the vehicle down within the driver’s reach.
 
 8.  On trucks with electric injection fuel pumps, they must have an electric shut off or disconnect for the injection pump on the back of the truck.
 
@@ -328,7 +328,7 @@
 
 3.  
 
-4.  All V8 engines must utilize a <span dir="rtl">“</span>block saver” steel or aluminum plate between the engine and bellhousing.
+4.  All V8 engines must utilize a “block saver” steel or aluminum plate between the engine and bellhousing.
 
 5.  All manual transmission clutches are required to be surrounded by a SFI 6.2,SFI 6.3 or SFI 6.4 approved bellhousing with a current, non-expired, SFI sticker and cannot have cracks or had an explosion inside. The bellhousing must have a liner. If in a cast chassis tractor, a SFI 4.2 spec scatter blanket that covers the entire bellhousing area from the rear of the engine to the front of the transmission. No holes allowed in the bellhousing other than those put in by the manufacturer or used for clutch engagement purposes.
 
@@ -371,24 +371,13 @@
 
 4.  Bellhousing Certification / Renewal
 
-<table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><ol type="a">
-<li><p>All SFI 6.2, 6.3, or 6.4 bellhousings must display a valid and current SFI certification decal affixed by the manufacturer that includes the expiration date before being allowed to compete in any OTTPA sanctioned event.</p></li>
-<li><p>Effective May 01, 2027, OTTPA will only accept SFI 6.2, 6.3, or 6.4 bellhousings made of steel or titanium in all applications, divisions, and levels of OTTPA competition.</p></li>
-<li><p>The NTPA or OTTPA stamp is not accepted as a replacement for a valid and current SFI certification decal.</p></li>
-</ol></th>
-<th>![](../media/image8.png)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+    1.  All SFI 6.2, 6.3, or 6.4 bellhousings must display a valid and current SFI certification decal affixed by the manufacturer that includes the expiration date before being allowed to compete in any OTTPA sanctioned event.
+
+    2.  Effective May 01, 2027, OTTPA will only accept SFI 6.2, 6.3, or 6.4 bellhousings made of steel or titanium in all applications, divisions, and levels of OTTPA competition.
+
+    3.  The NTPA or OTTPA stamp is not accepted as a replacement for a valid and current SFI certification decal.
+
+    ![](../media/image8.png)
 
 5.  Bellhousing Inspection Opening
 
@@ -459,28 +448,9 @@
 
 5.  The stabilizer pad must be a minimum of 5 inches square, with a minimum of 20 inches allowed from the outside of one pad to the other (Fig A.)
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>![](../media/image11.png)</p>
-<p><strong>Fig. A</strong></p></th>
-<th><p>![](../media/image12.png)</p>
-<p><strong>Fig. B</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>![](../media/image13.png)</p>
-<p><strong>Fig. C</strong></p></td>
-<td><p>![](../media/image14.png)</p>
-<p><strong>Fig. D</strong></p></td>
-</tr>
-</tbody>
-</table>
+| ![](../media/image11.png)<br>**Fig. A** | ![](../media/image12.png)<br>**Fig. B** |
+|---|---|
+| ![](../media/image13.png)<br>**Fig. C** | ![](../media/image14.png)<br>**Fig. D** |
 
 6.  No crossbars between stabilizer bars allowed behind the point of hook.
 

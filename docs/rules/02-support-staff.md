@@ -1,36 +1,9 @@
 # SUPPORT STAFF
-<table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>OFFICE MANAGER</strong></p>
-<p><strong>Susan Dunklau</strong></p>
-<p>710 N. 12th, Arlington, NE 68002</p>
-<p>402-618-7545 (C)</p>
-<p>susan@outlawpulling.com</p></th>
-<th><p><strong>HEAD EVENT ENTRY CLERK</strong></p>
-<p><strong>Lori Bauer</strong></p>
-<p>PO Box 163, Paton, IA 50217</p>
-<p>515-370-0331(C)</p>
-<p>lorijeanbauer@yahoo.com</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>LIVE STREAM PRODUCTION MANAGER</strong></p>
-<p><strong>Kenzie Thieding</strong></p>
-<p>608-495-1689 (C)</p>
-<p>mlthieding@gmail.com</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td colspan="2">All support staff positions are appointed by the OTTPA Chief Operating Officer</td>
-</tr>
-</tbody>
-</table>
+| **OFFICE MANAGER**<br>**Susan Dunklau**<br>710 N. 12th, Arlington, NE 68002<br>402-618-7545 (C)<br>susan@outlawpulling.com | **HEAD EVENT ENTRY CLERK**<br>**Lori Bauer**<br>PO Box 163, Paton, IA 50217<br>515-370-0331(C)<br>lorijeanbauer@yahoo.com |
+|---|---|
+| **LIVE STREAM PRODUCTION MANAGER**<br>**Kenzie Thieding**<br>608-495-1689 (C)<br>mlthieding@gmail.com |  |
+
+All support staff positions are appointed by the OTTPA Chief Operating Officer
 
 ## Director of Technical Services Responsibilities:
 - Hiring of Tech Officials for all OTTPA events.

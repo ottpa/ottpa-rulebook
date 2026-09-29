@@ -1,106 +1,12 @@
 # OTTPA TECH OFFICIALS
-<table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 32%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Jadin Beckwith</strong></p>
-<p>Hooper, NE</p>
-<p>402-253-9204</p>
-<p><a href="mailto:jadinbeckwith@gmail.com"><u>jadinbeckwith@gmail.com</u></a></p></th>
-<th><p><strong>Ryan Boysen</strong></p>
-<p>West Point, NE 68788</p>
-<p>712-880-0178</p>
-<p><a href="mailto:boysen4240@gmailcom"><u>boysen4240@gmailcom</u></a></p></th>
-<th><p><strong>Lauren Boysen</strong></p>
-<p>West Point, NE 68788</p>
-<p>712-420-0182 (C)</p>
-<p><a href="mailto:josh_runion@yahoo.com"><u>laurenboysen17@icloud.com</u></a></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Seth Champman</strong></p>
-<p>Kansas City, MO</p>
-<p>816-824-6216</p>
-<p><u>sethchampmanffa11@gmail.com</u></p></td>
-<td><p><strong>Brady Jedlicka</strong></p>
-<p>Schuyler NE 68661</p>
-<p>402-615-4997</p>
-<p><a href="mailto:bradyjedlicka@gmail.com"><u>bradyjedlicka@gmail.com</u></a></p></td>
-<td><p><strong>Tom Kauffman</strong></p>
-<p>Pilot Mound IA 50223</p>
-<p>515-570-2287</p>
-<p><a href="mailto:tktechfarmer54@gmail.com"><u>tktechfarmer54@gmail.com</u></a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Jonathan Kooima</strong></p>
-<p>Rock Valley, IA 51247</p>
-<p>712-470-5314</p>
-<p><a href="mailto:jonkooimatrucking@gmail.com"><u>jonkooimatrucking@gmail.com</u></a></p></td>
-<td><p><strong>Connor Leslie</strong></p>
-<p>254-396-0896</p>
-<p><u>cldieseldoctor@gmail.com</u></p></td>
-<td><p><strong>Jay Leslie</strong></p>
-<p>Stephenville, TX 76401</p>
-<p>254-396-2613 (C)</p>
-<p><a href="mailto:jldieseldoctor@gmail.com"><u>jldieseldoctor@gmail.com</u></a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Greg Lusetto</strong></p>
-<p>Bridgeport, NE 69336</p>
-<p>308-262-0740 (c)</p>
-<p><a href="mailto:lussetto@gmail.com"><u>lussetto@gmail.com</u></a></p></td>
-<td><p><strong>Mike McCoy</strong></p>
-<p>Hamilton, MO</p>
-<p>816-262-4470</p>
-<p><u>Mc2tools@yahoo.com</u></p></td>
-<td><p><strong>Patrick Meneough (PJ)</strong></p>
-<p>Manilla, IA 51454</p>
-<p>712-269-7273</p>
-<p><a href="mailto:pmeneough@gmail.com"><u>pmeneough@gmail.com</u></a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Cody Prichett</strong></p>
-<p>West Point, NE</p>
-<p>402-260-9964</p>
-<p><a href="mailto:codypritchett2017@gmail.com"><u>codypritchett2017@gmail.com</u></a></p></td>
-<td><p><strong>Roger Reynoldson</strong></p>
-<p>Madrid, IA 50156</p>
-<p>515-669-4579 (C)</p>
-<p><u>madridtigersfan@yahoo.com</u></p></td>
-<td><p><strong>Brad Riney</strong></p>
-<p>Lane, KS 66042</p>
-<p>913-200-5301</p>
-<p><u>prattfire23@gmail.com</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Clint Smeal</strong></p>
-<p>Tekamah, NE</p>
-<p>402-321-6301</p>
-<p><u>smealgt@gmail.com</u></p></td>
-<td><p><strong>Preston Sounderup</strong></p>
-<p>West Point, NE</p>
-<p>402-719-3135</p>
-<p><a href="mailto:sonderupp36@gmail.com"><u>sonderupp36@gmail.com</u></a></p></td>
-<td><p><strong>Jeremy Sparger</strong></p>
-<p>Deleon TX 76444</p>
-<p>254-734-5931 (C)</p>
-<p><a href="mailto:jeremysparger@gmail.com"><u>jeremysparger@gmail.com</u></a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Rob Stackhouse</strong></p>
-<p>Diagonal, IA 50845</p>
-<p>641-234-0087</p>
-<p><a href="mailto:rstadkhouse1101@gmail.com"><u>rstackhouse1101@gmail.com</u></a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| **Jadin Beckwith**<br>Hooper, NE<br>402-253-9204<br>[jadinbeckwith@gmail.com](mailto:jadinbeckwith@gmail.com) | **Ryan Boysen**<br>West Point, NE 68788<br>712-880-0178<br>[boysen4240@gmailcom](mailto:boysen4240@gmailcom) | **Lauren Boysen**<br>West Point, NE 68788<br>712-420-0182 (C)<br>[laurenboysen17@icloud.com](mailto:laurenboysen17@icloud.com) |
+|---|---|---|
+| **Seth Champman**<br>Kansas City, MO<br>816-824-6216<br>sethchampmanffa11@gmail.com | **Brady Jedlicka**<br>Schuyler NE 68661<br>402-615-4997<br>[bradyjedlicka@gmail.com](mailto:bradyjedlicka@gmail.com) | **Tom Kauffman**<br>Pilot Mound IA 50223<br>515-570-2287<br>[tktechfarmer54@gmail.com](mailto:tktechfarmer54@gmail.com) |
+| **Jonathan Kooima**<br>Rock Valley, IA 51247<br>712-470-5314<br>[jonkooimatrucking@gmail.com](mailto:jonkooimatrucking@gmail.com) | **Connor Leslie**<br>254-396-0896<br>cldieseldoctor@gmail.com | **Jay Leslie**<br>Stephenville, TX 76401<br>254-396-2613 (C)<br>[jldieseldoctor@gmail.com](mailto:jldieseldoctor@gmail.com) |
+| **Greg Lusetto**<br>Bridgeport, NE 69336<br>308-262-0740 (c)<br>[lussetto@gmail.com](mailto:lussetto@gmail.com) | **Mike McCoy**<br>Hamilton, MO<br>816-262-4470<br>Mc2tools@yahoo.com | **Patrick Meneough (PJ)**<br>Manilla, IA 51454<br>712-269-7273<br>[pmeneough@gmail.com](mailto:pmeneough@gmail.com) |
+| **Cody Prichett**<br>West Point, NE<br>402-260-9964<br>[codypritchett2017@gmail.com](mailto:codypritchett2017@gmail.com) | **Roger Reynoldson**<br>Madrid, IA 50156<br>515-669-4579 (C)<br>madridtigersfan@yahoo.com | **Brad Riney**<br>Lane, KS 66042<br>913-200-5301<br>prattfire23@gmail.com |
+| **Clint Smeal**<br>Tekamah, NE<br>402-321-6301<br>smealgt@gmail.com | **Preston Sounderup**<br>West Point, NE<br>402-719-3135<br>[sonderupp36@gmail.com](mailto:sonderupp36@gmail.com) | **Jeremy Sparger**<br>Deleon TX 76444<br>254-734-5931 (C)<br>[jeremysparger@gmail.com](mailto:jeremysparger@gmail.com) |
+| **Rob Stackhouse**<br>Diagonal, IA 50845<br>641-234-0087<br>[rstackhouse1101@gmail.com](mailto:rstackhouse1101@gmail.com) |  |  |
 
 WARRANTY DISCLAIMER The rules promulgated in the 2026 Pulling Rules for the sport of tractor and truck pulling, and the rules relating to the safety of equipment are the responsibility of each driver who participates in the sport of truck and tractor pulling under these rules. No expressed or implied warranty of safety is intended nor may be inferred from the publication of neither these rules, nor the compliance therewith. Nothing herein should be construed as a guarantee against injury or death to participants, bystanders or spectators. Specification and rules set forth in the 2026 OTTPA Pulling Rules were voted for by competing members at our annual banquet and/or approved by the 2026 OTTPA Board of Directors.
 

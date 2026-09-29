@@ -101,7 +101,7 @@
 
 13. No pressurized fuel system. Q16 is allowed. No M3, M5, or oxygenated type gas allowed. No nitro-based fuel nitro or power enhanced alcohol will be allowed. Top lube allowed.
 
-14. The vehicle must have vertical exiting exhaust; height of pipe must be a minimum of one (1) foot above the bend. ***NOTE:*** Vertical is defined as <span dir="rtl">“</span>being in plumb” with a ten (10) degree variance in any direction permitted.
+14. The vehicle must have vertical exiting exhaust; height of pipe must be a minimum of one (1) foot above the bend. ***NOTE:*** Vertical is defined as “being in plumb” with a ten (10) degree variance in any direction permitted.
 
 15. Vehicles to conform to provision of Modified Tractor engine shielding.  
     ***NOTE:*** Entire engine to mean anything that is bolted to the engine block.

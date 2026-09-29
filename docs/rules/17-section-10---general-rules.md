@@ -136,7 +136,7 @@
     2.  Should the inspections reveal illegal items on a vehicle, the facts of the inspection will be given to OTTPA Executive Board to decide penalties for such infractions.
 
 ## 10.12 - General: Support Vehicles
-1.  Support vehicles (such as ATV<span dir="rtl">’</span>s, golf carts, Mules, Gators, Jeeps, etc.) are to be used as support vehicles only (for towing or carrying fuel, batteries, etc.). Misuse of support vehicles before, during and after the event will not be tolerated. If an OTTPA official asks you to park your vehicle, and you don’t comply, the pulling vehicle that the support vehicle is associated with will lose points for that night.
+1.  Support vehicles (such as ATV’s, golf carts, Mules, Gators, Jeeps, etc.) are to be used as support vehicles only (for towing or carrying fuel, batteries, etc.). Misuse of support vehicles before, during and after the event will not be tolerated. If an OTTPA official asks you to park your vehicle, and you don’t comply, the pulling vehicle that the support vehicle is associated with will lose points for that night.
 
 2.  All support vehicles must be parked 1 hour after the conclusion of each evening session at all events. One hour after the show ends, the OTTPA insurance coverage ends. Failure to comply with this rule is considered detrimental to the OTTPA as outlined in the General Conduct section of the General Rules listed above and will result in a 1 year and 10-day ban from pulling with the OTTPA.
 

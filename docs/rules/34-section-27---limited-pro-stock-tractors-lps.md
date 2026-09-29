@@ -34,7 +34,7 @@
 
 11. No intercoolers or aftercoolers are allowed.
 
-12. The maximum size injection pump is a 7100 P - pump with maximum size plungers of 16 mm. No 8600 P-pumps. May run 15 ml cast iron housing Sigma<span dir="rtl">’</span>s <span dir="rtl">“</span>MUST BE SENT TO DIESEL PERFORMANCE ENGINE (DPE) FOR INSPECTION AND SEALED”.
+12. The maximum size injection pump is a 7100 P - pump with maximum size plungers of 16 mm. No 8600 P-pumps. May run 15 ml cast iron housing Sigma’s “MUST BE SENT TO DIESEL PERFORMANCE ENGINE (DPE) FOR INSPECTION AND SEALED”.
 
 13. Maximum ½-inch spacer allowed between engine block and transmission. (Exempt LSS(AG) Class)
 

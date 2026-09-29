@@ -60,7 +60,7 @@
 1.  Vehicles must have vertical exiting exhaust.
 
 2.  Height of pipe must be a minimum of one (1) foot above the bend.  
-    ***NOTE:*** Vertical is defined as <span dir="rtl">“</span>being in plumb” with a 10-degree variance in any direction permitted.
+    ***NOTE:*** Vertical is defined as “being in plumb” with a 10-degree variance in any direction permitted.
 
 ## 18.7 - Tires, Wheels
 1.  Must run a minimum of 14-inch front rims with an automotive or front tractor tire.

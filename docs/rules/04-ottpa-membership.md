@@ -1,5 +1,5 @@
 # OTTPA MEMBERSHIP
-The OTTPA license is like a driver<span dir="rtl">’</span>s license. It will have the OTTPA logo, your name, address, social security number, class and insurance information. All competing memberships will be valid from January 1, 2026 to December 31, 2026.
+The OTTPA license is like a driver’s license. It will have the OTTPA logo, your name, address, social security number, class and insurance information. All competing memberships will be valid from January 1, 2026 to December 31, 2026.
 
 ## Competing Membership & Insurance Fee & Dates:
 - Can join the day of a pull - \$450.00

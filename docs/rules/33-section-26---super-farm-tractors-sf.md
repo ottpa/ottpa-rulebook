@@ -29,7 +29,7 @@
 7.  Any P series pump with any plunger size is allowed. No Sigma fuel injection pumps are allowed.
 
 ## 26.4 - Turbocharger
-1.  OTTPA Super Farm tractor must run a Hart<span dir="rtl">’</span>s 3.6 X 4.55 smooth bore Box Turbo with a 132-exhaust housing only.
+1.  OTTPA Super Farm tractor must run a Hart’s 3.6 X 4.55 smooth bore Box Turbo with a 132-exhaust housing only.
 
 2.  No alteration of any kind is allowed.
 

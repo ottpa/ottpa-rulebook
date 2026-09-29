@@ -6,7 +6,7 @@
 
 2.  No OEM cast component tractors allowed.
 
-3.  If the OTTPA Board doubts the legality of any entry, or upon protest of another contestant in that class, the contestant in question must verify that 150 units of the tractor in question had been manufactured (notarized statement from the manufacturer). The contestant in question will furnish part numbers and prove to the board<span dir="rtl">’</span>s satisfaction that the tractor is a legal entry.
+3.  If the OTTPA Board doubts the legality of any entry, or upon protest of another contestant in that class, the contestant in question must verify that 150 units of the tractor in question had been manufactured (notarized statement from the manufacturer). The contestant in question will furnish part numbers and prove to the board’s satisfaction that the tractor is a legal entry.
 
 4.  Tractor airbag suspensions are allowed, but no on-board compressors or controls of any kind to change the suspension. Only one fill point is allowed for the suspension.
 
@@ -277,7 +277,7 @@
 
 3.  Sheet metal can be upgraded to present manufacturer upon approval from the OTTPA Board.
 
-4.  Sheet metal upgrade cannot cross original manufacturer<span dir="rtl">’</span>s line. For example, Case IH to IH or Oliver to Minneapolis Moline is acceptable. IH to John Deere is not acceptable.
+4.  Sheet metal upgrade cannot cross original manufacturer’s line. For example, Case IH to IH or Oliver to Minneapolis Moline is acceptable. IH to John Deere is not acceptable.
 
 5.  Sheet metal to be stock length and in stock location.
 
@@ -338,7 +338,7 @@
 
 2.  Neutral safety switches are to be in or on the transmission.
 
-3.  The stock transmission housing or manufacturer<span dir="rtl">’</span>s replacement must be used.
+3.  The stock transmission housing or manufacturer’s replacement must be used.
 
 4.  The stock final drive housings or manufactures replacements must be used.
 

@@ -3,14 +3,14 @@
 
 Any owner that is found illegal by tech and knows they are legal may prove themself by tearing down. When any vehicle is found illegal for cubic inches, the vehicle and owner will be suspended for 1 year and ten (10) days and will lose points for the entire season.
 
-## 12.1 - Truck General: Operator<span dir="rtl">’</span>s Compartment
-1.  No fuel tanks, fuel pressure gauges, fuel pumps and/or fuel lines are allowed in the operator<span dir="rtl">’</span>s compartment.
+## 12.1 - Truck General: Operator’s Compartment
+1.  No fuel tanks, fuel pressure gauges, fuel pumps and/or fuel lines are allowed in the operator’s compartment.
 
-2.  If the fuel tank is located behind the driver, a fire barrier is required from the firewall to the rear of the driver<span dir="rtl">’</span>s seat. (0.060-inch aluminum or steel is an acceptable fire barrier material.)
+2.  If the fuel tank is located behind the driver, a fire barrier is required from the firewall to the rear of the driver’s seat. (0.060-inch aluminum or steel is an acceptable fire barrier material.)
 
-3.  No radiator, heat exchanger and/or water hoses allowed inside the operator<span dir="rtl">’</span>s compartment.
+3.  No radiator, heat exchanger and/or water hoses allowed inside the operator’s compartment.
 
-4.  If a battery is inside the operator<span dir="rtl">’</span>s compartment, it must be safely enclosed and securely fastened
+4.  If a battery is inside the operator’s compartment, it must be safely enclosed and securely fastened
 
 ## 12.2 - Truck General: Drawbar / Hitch
 1.  Drawbar height or distance from center of rear axle cannot change during the pull.
@@ -56,7 +56,7 @@ Any owner that is found illegal by tech and knows they are legal may prove thems
 
     3.  Working left hand door RECOMMENDED for safety issues.
 
-    4.  An on-board Halon fire system with a minimum of three nozzles located in driver<span dir="rtl">’</span>s compartment/engine compartment. Must not be expired.
+    4.  An on-board Halon fire system with a minimum of three nozzles located in driver’s compartment/engine compartment. Must not be expired.
 
 5.  May compete without bumpers, tailgates, van rear doors for greater hook point visibility.
 
@@ -66,7 +66,7 @@ Any owner that is found illegal by tech and knows they are legal may prove thems
 
 8.  Vehicles must have vertical bumpers at the rearmost point of the vehicle. Bottom of bumper to be a minimum of 18 inches from the ground. Bumper to extend a minimum of eight (8) inches vertically. Must be rigid.
 
-9.  Tinted or shaded windows hindering the driver<span dir="rtl">’</span>s vision out the front or back will not be allowed.
+9.  Tinted or shaded windows hindering the driver’s vision out the front or back will not be allowed.
 
 10. Flip-top or funny car type vehicles must have the body in lowered position before vehicle may be moved under its own power.
 
@@ -117,7 +117,7 @@ Any owner that is found illegal by tech and knows they are legal may prove thems
 
     1.  No cast metals.
 
-    2.  All remaining drive train, excluding additional manual transmissions, must be enclosed in 5/16-inch minimum steel or 3/8-inch aluminum, round, inside diameter not to exceed two (2) inches more than the outside diameter of the largest universal joint, fastened every six (6) inches or closer, with 3/8 inch or larger bolts, grade \#5 or butt and seam welded and securely mounted to vehicle<span dir="rtl">’</span>s frame. Applies to all vehicles with exposed drive shaft. No more than ¼ inch of the end of driveline shall be visible with driveline shielding in place.
+    2.  All remaining drive train, excluding additional manual transmissions, must be enclosed in 5/16-inch minimum steel or 3/8-inch aluminum, round, inside diameter not to exceed two (2) inches more than the outside diameter of the largest universal joint, fastened every six (6) inches or closer, with 3/8 inch or larger bolts, grade \#5 or butt and seam welded and securely mounted to vehicle’s frame. Applies to all vehicles with exposed drive shaft. No more than ¼ inch of the end of driveline shall be visible with driveline shielding in place.
 
     3.  Drive shafts between engine and transfer case must have solid shielding a minimum of 3/8-inch aluminum or 5/16-inch steel.
 
