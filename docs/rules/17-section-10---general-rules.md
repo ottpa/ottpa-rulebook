@@ -183,9 +183,7 @@
 
 3.  High Helix is maximum 6.5 degrees of helix per inch of rotor length.
 
-4.  
-
-5.  The maximum outside diameter of the rotor including affixed strips is 5.840”, slide a gauge ring over rotor to measure.
+4.  The maximum outside diameter of the rotor including affixed strips is 5.840”, slide a gauge ring over rotor to measure.
 
 ## 10.18 - General: Drawbars and Hitches
 1.  A Vehicle must have tow hitch on the front of the vehicle.
