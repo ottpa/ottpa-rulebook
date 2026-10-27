@@ -66,6 +66,7 @@ nav:
 - Downloads: downloads.md
 markdown_extensions:
 - tables
+- sane_lists
 - admonition
 - toc:
     permalink: true

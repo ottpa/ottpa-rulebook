@@ -16,35 +16,31 @@
 
 4.  All contestants must wear a full-faced helmet
 
-<!-- -->
-
-1.  Full faced helmet must meet one of the following ratings:
+5.  Full faced helmet must meet one of the following ratings:
 
     1.  SNELL SA2015 rating or newer.
 
     2.  SFI spec 41.2 rating
 
-2.  No moto-cross helmets allowed.
+6.  No moto-cross helmets allowed.
 
-3.  No modification or alteration of the helmet is allowed.
+7.  No modification or alteration of the helmet is allowed.
 
-4.  While a vehicle is on the track all chin straps must be tightly fastened so that it would prevent the helmet from coming off a person’s head without unfastening the chin strap. If a competitor is seen on the track with the chin strap unfastened the competitor will be disqualified.
+8.  While a vehicle is on the track all chin straps must be tightly fastened so that it would prevent the helmet from coming off a person’s head without unfastening the chin strap. If a competitor is seen on the track with the chin strap unfastened the competitor will be disqualified.
 
-<!-- -->
-
-1.  Head sock must be worn if the helmet does not have flame resistant lining and neck skirt.
+9.  Head sock must be worn if the helmet does not have flame resistant lining and neck skirt.
 
     1.  Helmets with flame retardant linings and a flame-retardant neck skirt are allowed. If you use a helmet with both flame-retardant lining and a neck skirt, no head sock is required.
 
-2.  Neck Collar / Neck Brace
+10. Neck Collar / Neck Brace
 
     1.  All drivers in all divisions will be required to wear a full 360-degree neck collar or HANS device meeting SFI spec 3.3 or 38.1 with a SFI tag showing.
 
     2.  
 
-3.  Fire Retardant Gloves are required
+11. Fire Retardant Gloves are required
 
-4.  Fire Retardant Shoes are required
+12. Fire Retardant Shoes are required
 
 ## 11.2 - General: Fire Extinguisher
 1.  A minimum of a two (2) pound ABC dry chemical fire extinguisher, with gauge, secured to the vehicle and convenient to the driver is mandatory.
@@ -164,60 +160,58 @@
 
     4.  Any clamp used to attach a safety device to the turbocharger that is not supplied by the turbocharger manufacturer must be a Double V type clamp as shown in diagram. Clamp has a stainless steel band covering the entire circumference. Clamp must be manufactured by a USA supplier.
 
-> ![](../media/image4.png)
+    ![](../media/image4.png)
 
-5.  Containment device must be installed as designed by manufacturer. No modifications or alterations of any kind allowed.
+    5.  Containment device must be installed as designed by manufacturer. No modifications or alterations of any kind allowed.
 
-6.  Manufacturer may identify each component or assembly by engraving part numbers or some type of identification into each part.
+    6.  Manufacturer may identify each component or assembly by engraving part numbers or some type of identification into each part.
 
-> ![](../media/image5.png)
+    ![](../media/image5.png)
 
-7.  OTTPA Approved Containment Devices
+    7.  OTTPA Approved Containment Devices
 
-    1.  **Option 1:** **Cross Bolts in Turbo Exhaust Housing - installed by turbo manufacturer**
+        1.  **Option 1:** **Cross Bolts in Turbo Exhaust Housing - installed by turbo manufacturer**
 
-        1.  Qty. 2 (two) .500-inch diameter, grade 5 or greater bolts installed by drilling qty. 4 (four) holes into turbo exhaust housing and welded in place.
+            1.  Qty. 2 (two) .500-inch diameter, grade 5 or greater bolts installed by drilling qty. 4 (four) holes into turbo exhaust housing and welded in place.
 
-        2.  Bolts must be installed at 90 degrees from each other and no more than .0625-inch (1/16-inch) between the two bolts.
+            2.  Bolts must be installed at 90 degrees from each other and no more than .0625-inch (1/16-inch) between the two bolts.
 
-        3.  Cross bolts must be located as close to the center of exhaust wheel as possible.
+            3.  Cross bolts must be located as close to the center of exhaust wheel as possible.
 
-    2.  **Option 2: Containment Adapter - supplied by turbo manufacturer**
+        2.  **Option 2: Containment Adapter - supplied by turbo manufacturer**
 
-        1.  Containment device supplied by turbo manufacturer must be approved by OTTPA Tech Services and installed as supplied by manufacturer.
+            1.  Containment device supplied by turbo manufacturer must be approved by OTTPA Tech Services and installed as supplied by manufacturer.
 
-        2.  Containment device must be located as close to exhaust wheel as possible.
+            2.  Containment device must be located as close to exhaust wheel as possible.
 
-        3.  Containment device and components supplied for attachment to turbo housing must contain the manufacturer’s name or logo identification.
+            3.  Containment device and components supplied for attachment to turbo housing must contain the manufacturer’s name or logo identification.
 
-    3.  **Option 3: Containment Adapter - supplied by** **OTTPA** **approved manufacturer**
+        3.  **Option 3: Containment Adapter - supplied by** **OTTPA** **approved manufacturer**
 
-        1.  Exhaust adapter must be fabricated using two interlocking pieces of .250-inch x 1.000-inch flat steel notched .250-inch x .500-inch at center creating a single interlocking assembly and fully welded into a cross pattern.
+            1.  Exhaust adapter must be fabricated using two interlocking pieces of .250-inch x 1.000-inch flat steel notched .250-inch x .500-inch at center creating a single interlocking assembly and fully welded into a cross pattern.
 
-        2.  Round steel containment adapter must be a minimum .175-inch wall thickness and contain cross assembly fully welded inside the adapter, not in exhaust pipe.
+            2.  Round steel containment adapter must be a minimum .175-inch wall thickness and contain cross assembly fully welded inside the adapter, not in exhaust pipe.
 
-        3.  Leading edge of cross assembly can be sharpened a maximum of .250-inch back from leading edge facing the exhaust wheel. Any tapered or sharpened edge is in addition to 1-inch minimum width.
+            3.  Leading edge of cross assembly can be sharpened a maximum of .250-inch back from leading edge facing the exhaust wheel. Any tapered or sharpened edge is in addition to 1-inch minimum width.
 
-        4.  Location of leading edge of cross assembly not to exceed .125-inch behind face of adapter flange on turbo side.
+            4.  Location of leading edge of cross assembly not to exceed .125-inch behind face of adapter flange on turbo side.
 
-        5.  Adapter mounting flange must be a minimum .140-inch wide at base of flange and a minimum .125-inch wide at narrowest point of taper.
+            5.  Adapter mounting flange must be a minimum .140-inch wide at base of flange and a minimum .125-inch wide at narrowest point of taper.
 
-        6.  Adapter must be attached to turbo exhaust housing flange using clamp supplied by adapter manufacturer. Since this containment device is attached to turbo exhaust housing flange by use of a clamp, the exhaust pipe must be welded to the containment device. Adapter and attaching clamp must be clearly identified with manufacturer name or logo.
+            6.  Adapter must be attached to turbo exhaust housing flange using clamp supplied by adapter manufacturer. Since this containment device is attached to turbo exhaust housing flange by use of a clamp, the exhaust pipe must be welded to the containment device. Adapter and attaching clamp must be clearly identified with manufacturer name or logo.
 
-8.  Exhaust Wheel Cage  
-    ***NOTE:*** Exhaust Wheel Cage is a containment device bolted to exhaust housing by turbo manufacturer
+    8.  Exhaust Wheel Cage  
+        ***NOTE:*** Exhaust Wheel Cage is a containment device bolted to exhaust housing by turbo manufacturer
 
-    1.  Billet steel cage made from 304 stainless bolted and fastened to exhaust housing as supplied by the turbo manufacturer.
+        1.  Billet steel cage made from 304 stainless bolted and fastened to exhaust housing as supplied by the turbo manufacturer.
 
-    2.  Exhaust wheel cage must be fastened using bolts, a minimum qty. 8 (eight) - 5/16-inch diameter, grade 8 or greater bolts required or wheel cage fastened as designed by turbo manufacturer.
+        2.  Exhaust wheel cage must be fastened using bolts, a minimum qty. 8 (eight) - 5/16-inch diameter, grade 8 or greater bolts required or wheel cage fastened as designed by turbo manufacturer.
 
-    3.  Turbo exhaust wheel cage must be manufactured by sane turbo manufacturer on which it is installed.
+        3.  Turbo exhaust wheel cage must be manufactured by sane turbo manufacturer on which it is installed.
 
-    4.  Exhaust wheel cage must be installed as supplied. No modifications allowed.
+        4.  Exhaust wheel cage must be installed as supplied. No modifications allowed.
 
-    5.  OTTPA Technical Services to determine any additional dimension or specifications required.
-
-<!-- -->
+        5.  OTTPA Technical Services to determine any additional dimension or specifications required.
 
 10. All turbocharged vehicles with the air inlet on the turbocharger not in the engine compartment (under the hood, behind the side shields and behind the grill) must have a cross in front of the compressor wheel. Cover (3/8” star pattern of billet) will be V-banded between air shut off and compressor cover.
 
@@ -308,9 +302,7 @@
 
     3.  This shield must extend from the bottom of the head to the centerline of the crankshaft and extend the full length of the block on each side of the engine
 
-<!-- -->
-
-4.  Spark Plug Shielding
+6.  Spark Plug Shielding
 
     1.  Any Hemi type engine valve cover that is not equipped with a hold down device (ie. snap ring or billet retainer) for the spark plug tube must install a retaining kit accepted by OTTPA Technical Services.  
         ![](../media/image6.png)
