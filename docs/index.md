@@ -2,8 +2,6 @@
 
 ![](media/image1.png)
 
-![](media/image2.png)
-
 **2026 Official Rule Book** · V. 2026.03 – 06/25/26
 
 Welcome to the online OTTPA rule book. This is the same rule book the association has always published as a PDF — now searchable and organized by section, and it's kept current here year-round instead of waiting on the next print run.
