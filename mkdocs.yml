@@ -13,6 +13,8 @@ theme:
   - scheme: default
     primary: custom
     accent: orange
+  logo: assets/OTTPA-Logo-white-outline.svg
+  favicon: assets/OTTPA-Logo-white-outline.svg
 nav:
 - Home: index.md
 - About:
