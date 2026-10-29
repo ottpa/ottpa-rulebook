@@ -1,5 +1,5 @@
 :root > * {
-  --md-primary-fg-color: #YOURHEX;
-  --md-primary-fg-color--light: #YOURHEX;
-  --md-primary-fg-color--dark: #YOURHEX;
+  --md-primary-fg-color: #ea1721;
+  --md-primary-fg-color--light: #b8babd;
+  --md-primary-fg-color--dark: #231F20;
 }
