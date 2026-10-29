@@ -15,6 +15,8 @@ theme:
     accent: orange
   logo: assets/OTTPA-Logo-black-white.svg
   favicon: assets/OTTPA-Logo-black-white.svg
+extra_css:
+- stylesheets/extra.css
 nav:
 - Home: index.md
 - About:
